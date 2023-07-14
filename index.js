@@ -94,7 +94,7 @@ for (let i = 0; i < array.length; i++) {
   kiekis[array[i]]++;
 }
 
-console.log('Raidziu kiekis:', kiekis);
+console.log("Raidziu kiekis:", kiekis);
 
 console.log('-------  8 uzduotis ---------');
 //8. Parašyti funkciją - lygineSuma. Funkcijos parametrai - du kintamieji.
@@ -162,3 +162,4 @@ function pirminisSkaicius(number) {
 //10. Parašyti funkciją telefonoNumeris. Funkcija turi priimti vieną kintamąjį - masyvą.
 // Masyvo elementai - skaičiai, ilgis - 10. Funkcija turi grąžinti telefono numerį tokiu formatu - 
 // "(XXX) XXX-XXXX". (10 taškų)
+
